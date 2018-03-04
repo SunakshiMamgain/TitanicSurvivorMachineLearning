@@ -1,8 +1,5 @@
 # Titanic_Survivor_MachineLearning
-A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data analysis. Shows examples of Logistic Regression.
-
-# Titanic_Survivor_MachineLearning
-A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data analysis. Shows examples of Logistic Regression.
+A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Demonstrates basic data analysis. Shows examples of Random Forest Classifier.
 
 # Kaggle Competition | Titanic Machine Learning from Disaster
 >The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
@@ -15,7 +12,7 @@ A tutorial for Kaggle's Titanic: Machine Learning from Disaster competition. Dem
 
 |  Algorithm        | Accuracy      | precision Score  | Recall Score |
 | ------------------------------- |:-------------:| ----------------:| ------------:|
-| Logistic Regression     |0.8035        |0.778           |0.7666        |
+| Logistic Regression     |0.966        |0.754           |0.745        |
 
 ### Tool
  - Pycharm
